@@ -1,0 +1,45 @@
+body {
+    font-family: 'roboto' sans-serif;
+    background-image: url(/assets/pattern.png);
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+
+}
+/* Sizing and placement for images*/
+.vehicles img{
+    height: 120px;
+    width: 120px;
+}
+
+/* Specific colors for headings */
+.economy h2 {
+    color: #FF7F0E;
+}
+.luxury h2 {
+    color: #7F00FF;
+}
+.family h2 {
+    color: #00B050;
+}
+/* All buttons size and style*/
+.vehicles button {
+    padding: 10px 25px; 
+    font-size: 12px; 
+    font-weight: bold; 
+    cursor: pointer;
+    color: #ffffff; 
+}
+/* Specific colors for each button */
+.economy button {
+    background-color: #FF7F0E;
+}
+.luxury button {
+    background-color: #7F00FF;
+}
+.family button {
+    background-color: #00B050;
+}
