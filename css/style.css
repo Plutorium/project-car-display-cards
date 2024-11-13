@@ -82,12 +82,15 @@ a {
 .economy {
     background: url(/assets/economic-car.png) no-repeat right;
     background-size: 200px;
+    background-color: #fff;
 }
 .luxury {
     background: url(/assets/luxury-car.png) no-repeat right;
-    background-size: 200px; ;
+    background-size: 200px;
+    background-color: #fff;
 }
 .family {
     background: url(/assets/family-car.png) no-repeat right;
 background-size: 200px;
+background-color: #fff;
 }
