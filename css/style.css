@@ -18,38 +18,62 @@ body {
     border-radius: 10px;
     box-shadow: 0px 10px 10px rgba(0,0,0, 0.3);
 }
-/* heading styling sixing*/
+/* heading styling */
 .car h2 {
     margin-bottom: 20px;
     font-weight: 800;
 }
+/* paragraph styling*/
 .car p{
     margin-bottom: 5px;
     font-size: 15px;
 }
-/* color styling for heading */
+/*style for economy*/
 .economy h2 {
     color: #FF7F0E;
 }
 .economy a {
     background-color: #FF7F0E;
 }
-.luxury h2 {
-    color: #7F00FF;
+
+.economy a:hover {
+    background-color: #c96b19;
+}
+
+.economy a:active {
+    background-color: #864914;
+}
+/*style for luxury*/
+.luxury h2{
+color: #7F00FF;
 }
 .luxury a {
-    background-color: #7F00FF;
+background-color: #7F00FF;
 }
+.luxury a:hover {
+background-color: #7217cd;
+}
+.luxury a:active{
+background-color: #50138d;
+}
+/* style for family*/
 .family h2 {
-    color: #00B050;
+color: #00B050;
 }
-.family a {
-    background-color: #00B050;
+.family a{
+background-color: #00B050;
+}
+.family a:hover {
+background-color: #0c8141;
+}
+.family a:active {
+background: #05562a;
 }
 a {
     display: inline-block;
     text-decoration: none;
     color: white;
+    background-color: aquamarine;
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 18px;margin-top: 5px;
