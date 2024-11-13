@@ -78,3 +78,15 @@ a {
     border-radius: 5px;
     font-size: 18px;margin-top: 5px;
 }
+.economy {
+    background: url(/assets/economic-car.png) no-repeat right;
+    background-size: 200px;
+}
+.luxury {
+    background: url(/assets/luxury-car.png) no-repeat right;
+    background-size: 200px; ;
+}
+.family {
+    background: url(/assets/family-car.png) no-repeat right;
+background-size: 200px;
+}
