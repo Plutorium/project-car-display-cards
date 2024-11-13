@@ -78,38 +78,3 @@ a {
     border-radius: 5px;
     font-size: 18px;margin-top: 5px;
 }
-/*
-
-.vehicles img{
-    height: 120px;
-    width: 120px;
-}
-
-
-economy h2 {
-    color: #FF7F0E;
-}
-.luxury h2 {
-    color: #7F00FF;
-}
-.family h2 {
-    color: #00B050;
-}
-
-.vehicles button {
-    padding: 10px 25px; 
-    font-size: 12px; 
-    font-weight: bold; 
-    cursor: pointer;
-    color: #ffffff; 
-}
-
-.economy button {
-    background-color: #FF7F0E;
-}
-.luxury button {
-    background-color: #7F00FF;
-}
-.family button {
-    background-color: #00B050;
-} */
