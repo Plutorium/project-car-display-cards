@@ -2,7 +2,7 @@
 body {
     font-family: 'oswald' sans-serif;
     background-image: url(/assets/pattern.png);
-    background-size: cover;
+    background-size: 450px;
 }
 /* reset margin and padding */
 * {
